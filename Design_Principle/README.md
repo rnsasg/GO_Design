@@ -1,6 +1,6 @@
 # Design Principles 
 
-1. [SOLID](Design_Principle/solid.md) : Single Responsibility,Open/Closed,Liskov Substitution,Interface Segregation,Dependency Inversion
-2. [KISS](Design_Principle/kiss.md) : Keep it Simple, Stupid
-3. [DRY](Design_Principle/dry.md) : Don't Repeat Yourself
-4. [YAGNI](Design_Principle/yagni.md) : You Aren't Gonna Need It
+1. [SOLID](solid.md) : Single Responsibility,Open/Closed,Liskov Substitution,Interface Segregation,Dependency Inversion
+2. [KISS](kiss.go) : Keep it Simple, Stupid
+3. [DRY](dry.go) : Don't Repeat Yourself
+4. [YAGNI](yagni.go) : You Aren't Gonna Need It

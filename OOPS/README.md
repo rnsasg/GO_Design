@@ -1,6 +1,6 @@
 # Object Oriented Programming
 
-1. [Encapsulation](OOPS/vehicle/Encapsulation.go)
-2. [Abstraction](OOPS/vehicle/Abstraction.go)
-3. [Inheritance](OOPS/vehicle/inheritance.go)
-4. [Polymorphism](OOPS/vehicle/polymorphism.go)
+1. [Encapsulation](vehicle/Encapsulation.go)
+2. [Abstraction](vehicle/Abstraction.go)
+3. [Inheritance](vehicle/inheritance.go)
+4. [Polymorphism](vehicle/polymorphism.go)
